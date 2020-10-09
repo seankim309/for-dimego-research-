@@ -1,0 +1,119 @@
+kpop의 커뮤니티(디코)
+웹형식(naver처럼)
+
+검색엔진 
+-검색하면 kpop관련자료만 출력
+
+로그인 하면 채팅, 뉴스, 굿즈, 차트, 실시간 검색어같은것
+
+지역별 언어제공서비스
+
+팬덤 광고
+
+
+
+할일
+
+### 완료
+카카오오븐 또는 발사믹을 이용한 웹컨셉 만들기(완료)
+경쟁사 검색
+장단점조사
+
+
+
+### 할것
+워드프레스나 윅스를 이용한 웹만들기
+
+
+
+
+참고 자료
+- 카카오 오븐(webUI 프로토타입) : https://ovenapp.io/
+-kpop 커뮤니티 앱 인스티즈 : https://play.google.com/store/apps/details?id=net.instiz.www.instiz
+
+
+창업계획서
+-https://m.blog.naver.com/PostView.nhn?blogId=we_are_youth&logNo=220863936634&proxyReferer=https:%2F%2Fwww.google.com%2F
+
+광고 모금의 현실 한국 광고 모금의 현실 사기가 일어날수도 있다
+-https://sbsfune.sbs.co.kr/news/news_content.jsp?article_id=E10009703970
+-https://www.mk.co.kr/news/culture/view/2010/08/455154/
+-https://pgr21.com/pb/pb.php?id=spoent&no=23159
+
+아이돌 모금방법
+https://kin.naver.com/qna/detail.nhn?d1id=3&dirId=30104&docId=361678600&qb
+=7JWE7J2064+MIOuqqOq4iOuwqeuylQ==&enc=utf8&section=kin&rank=1&search_sort=0&spq=0
+
+지하철 광고시장
+-https://brunch.co.kr/@minimapworld/78
+-https://brunch.co.kr/@minimapworld/79
+
+kpop 팬덤 광고
+아이돌 모금앱(뮤빗, 아이돌 챔프같이)
+자신이 모금을 만들수 있음
+위치, 날짜, 형식(지하철, 택시, 전광판, 버스 등)등 선택가능
+가상코인으로 운영
+투명성 강조
+모금구조에 대해 알려주기
+=> 수수료, 미달성시 전액환불 등 알려주기
+광고후 인증하기(후기)
+
+
+
+
+
+
+
+
+### 아이돌 
+- 아이돌 순위
+
+https://namu.wiki/w/%EA%B5%AD%EA%B0%80%EB%B3%84%20%ED%95%9C%EB%A5%98
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mycelebs.com%2Fstory%2F447&
+psig=AOvVaw2vMQd227kcmqHJnPnK3E09&ust=1602070855813000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCT0JTxn-wCFQAAAAAdAAAAABAY
+
+방탄(아미)
+엑소
+블핑
+마마무
+레드벨벳
+애이핑크
+(여자)아이들
+트와이스(원스)
+위너
+아이즈원
+이달의 소녀
+소녀시대
+오마이걸
+NCT
+세븐틴
+에이프릴
+티아라
+워너원
+샤이니
+시그니처
+
+- 각 아이돌 별 남녀 비율
+
+https://ggoorr.net/enter/10197031
+https://ggoorr.net/enter/10197007
+여성이 아이돌 소비비중이 높음으로 여성에게 초점을 맞춘다
+
+- 인기있는 지역(나라)
+https://www.billboard.com/charts/hot-100
+https://namu.wiki/w/%EA%B5%AD%EA%B0%80%EB%B3%84%20%ED%95%9C%EB%A5%98#s-7.1
+
+
+- 웹기반으로 사업 확장시 기술적인 문제점
+
+
+
+
+
+
+
+
+
+
+
